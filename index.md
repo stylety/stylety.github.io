@@ -3,6 +3,11 @@
 ###  [www.oschina.net](www.oschina.net)  
 ### [www.freebuf.com](www.freebuf.com)
 
+<div style="background-color:black;font-color:white">
+  <center>     宝剑锋从磨砺出  </center>
+  </div>
+
+
 - [ ] chiphell.com
 - [ ] csdn.net
 ### Markdown
