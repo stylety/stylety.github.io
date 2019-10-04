@@ -2,6 +2,7 @@
 每天都访问的web:`www.oschina.net`
 ###  [www.oschina.net](www.oschina.net)  
 ### [www.freebuf.com](www.freebuf.com)
+### [Temp TEXT is here](temp.md)
 
 <div style="background-color:black;font-color:white;font-size:20px">
   <center>     宝剑锋从磨砺出  </center>
