@@ -28,3 +28,6 @@ del telnet_tmp.vbs
 [https://www.ssyer.com/](https://www.ssyer.com/)
 <br>
 ***
+### [Github中能用的表情符号](https://www.webfx.com/tools/emoji-cheat-sheet/)
+>例如： :coffee: :pizza:
+:smile:
