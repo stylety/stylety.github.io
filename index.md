@@ -3,7 +3,7 @@
 ###  [www.oschina.net](www.oschina.net)  
 ### [www.freebuf.com](www.freebuf.com)
 
-<div style="background-color:black;font-color:white">
+<div style="background-color:black;font-color:white;font-size:20px">
   <center>     宝剑锋从磨砺出  </center>
   </div>
 
