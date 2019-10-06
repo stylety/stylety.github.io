@@ -1,7 +1,7 @@
 # Welcome to My Page
 每天都访问的web:`www.oschina.net`
-###  [www.oschina.net](www.oschina.net)  
-### [www.freebuf.com](www.freebuf.com)
+###  [www.oschina.net](http://www.oschina.net)  
+### [www.freebuf.com](http://www.freebuf.com)
 ### [Temp TEXT is here](temp.md)
 ***
 ### [一些考试网站](exam/list.md)
