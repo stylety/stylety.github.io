@@ -5,8 +5,8 @@
 ### [Temp TEXT is here](temp.md)
 ***
 ### [一些考试网站](exam/list.md)
-### 常用的文本编辑器,支持16进制,支持很多语言格式.
-   [WxMedit](http://http://wxmedit.github.io/)
+### 常用的文本编辑器,支持16进制,支持很多语言格式.&emsp;[WxMedit](http://http://wxmedit.github.io/)
+   
 
 ***
 
