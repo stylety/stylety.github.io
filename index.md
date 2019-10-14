@@ -1,33 +1,18 @@
 # Welcome to My Page
-每天都访问的web:`www.oschina.net`
-###  [www.oschina.net](http://www.oschina.net)  
-### [www.freebuf.com](http://www.freebuf.com)
 ### [Temp TEXT is here](temp.md)
-### [一些考试网站](exam/list.md)
 ### [北京时间](http://www.bjtime.cn)
-
 ***
-
 ### 常用的文本编辑器,支持16进制,支持很多语言格式.&emsp;[WxMedit](http://wxmedit.github.io/)
-### 网站收集&emsp;[龙喵网](http://ailongmiao.com/)
-### 精美图标-EasyIcon &emsp;[easyicon](https://www.easyicon.net/)
-
-
 ***
-
-![](https://cdn.pixabay.com/photo/2017/03/27/09/07/macro-2177768__340.jpg)
-
 <div style="background-color:black;font-color:white;font-size:20px">
   <center>     宝剑锋从磨砺出  </center>
-  </div>
-  
+ </div>
+ ![](https://cdn.pixabay.com/photo/2017/03/27/09/07/macro-2177768__340.jpg)
 ***
-
 - [ ] chiphell.com
 - [ ] csdn.net
 - [x] Github.com
 
-***
 ***
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
