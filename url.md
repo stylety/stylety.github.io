@@ -7,6 +7,7 @@
 [吾爱破解](http://www.52pojie.cn)   &emsp;&emsp;
 
 ####   *素材下载*
+
 |WEB|URL|Remark|
 |:---|:---|:---|
 |pixabay|[https://pixabay.com/zh/](https://pixabay.com/zh/)||
@@ -15,6 +16,7 @@
 |龙喵网|[http://ailongmiao.com/](http://ailongmiao.com/)||
 
 #### *考试网站*
+
 |URL|REMARK|
 |:---|:---|
 |http://www.ruankao.org.cn/|中国计算机技术职业资格网| 
@@ -28,9 +30,12 @@
 |http://kzp.mof.gov.cn/|全国会计专业技术资格考试|
 
 #### *系统镜像网站*
+
 |WEB|URL|Remark|
 |:---|:---|:---|
 |mirrors.ustc.edu.cn|[mirrors.ustc.edu.cn](https://mirrors.ustc.edu.cn/)||
 |mirrors.aliyun.com|[mirrors.aliyun.com](http://mirrors.aliyun.com)||
 |mirrors.mit.edu|[mirrors.mit.edu](http://mirrors.mit.edu)||
 ||http://www.mamicode.com/|码迷网|
+
+
