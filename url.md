@@ -38,4 +38,11 @@
 |mirrors.mit.edu|[mirrors.mit.edu](http://mirrors.mit.edu)||
 |码迷网|http://www.mamicode.com/||
 
+#### *其它可用网站*
 
+|WEB|URL|Remark|
+|:---|:---|:---|
+|拷贝兔,文件分享|[https://cp.anyknew.com/](https://cp.anyknew.com/)||
+|搜索引擎|[https://www.dogedoge.com](https://www.dogedoge.com/)||
+|秘迹搜索<br>不搜集个人隐私的搜索引擎|[https://mijisou.com/](https://mijisou.com/)||
+|PPT模板|[http://www.1ppt.com/](http://www.1ppt.com/)||
