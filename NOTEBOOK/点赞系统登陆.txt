@@ -1,0 +1,7 @@
+µÇÂ¼µØÖ·
+http://192.168.20.5:8080/emp_web_spring/emp_list.action
+532362
+
+¶þÎ¬Âë
+http://192.168.20.5:8080/emp_web_spring/infomation.action?oid=1
+
