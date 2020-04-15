@@ -5,6 +5,9 @@
 [FreeBuf](http://www.freebuf.com)   &emsp;&emsp;
 [Chiphell](http://www.chiphell.com)  &emsp;&emsp;
 [吾爱破解](http://www.52pojie.cn)   &emsp;&emsp;
+`freelancer`
+[upwork](http://www.upwork.com)   &emsp;&emsp;
+[fiverr](http://www.fiverr.com)   &emsp;&emsp;
 
 ####   *素材下载*
 
