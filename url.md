@@ -39,7 +39,7 @@
 |mirrors.ustc.edu.cn|[mirrors.ustc.edu.cn](https://mirrors.ustc.edu.cn/)||
 |mirrors.aliyun.com|[mirrors.aliyun.com](http://mirrors.aliyun.com)||
 |mirrors.mit.edu|[mirrors.mit.edu](http://mirrors.mit.edu)||
-|码迷网|http://www.mamicode.com/||
+|码迷网|[http://www.mamicode.com/](http://www.mamicode.com/)||
 
 #### *其它可用网站*
 
